@@ -5,7 +5,7 @@ This repository contains a data analysis project on customer churn for a fiction
 ## 🔗 Project Links
 
   * **[Google Colab Notebook](https://colab.research.google.com/drive/1Ja09j1ByvQrdFRf-6BJhhUBBTlO76AYK?usp=sharing)**
-  * **[Power BI Dashboard](https://www.google.com/search?q=https://app.powerbi.com/YOUR_DASHBOARD_LINK_HERE)**
+  * **[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTgwMmU3MTktYTJkNi00ODk4LTk0ODAtMzU0MzBhN2E4NmJkIiwidCI6IjAyNjU5ODhhLWU0MDQtNGRkYy1hMmEwLTY2MjUwNWMzYjc4ZiIsImMiOjh9&pageName=e924d61512c6925a6cb7)**
   * **[Dataset](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113/data)**
 
 -----
